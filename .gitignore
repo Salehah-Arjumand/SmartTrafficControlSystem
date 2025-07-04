@@ -1,12 +1,14 @@
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 *.iml
 
-# Build
+# Java build output
 /out/
-/target/
 *.class
 
-# Logs and temp
+# Logs
 *.log
-*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
