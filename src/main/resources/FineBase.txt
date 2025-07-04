@@ -1,0 +1,9 @@
+DPR;Double parking;Low;100;0.10;15;no;
+PWL;Parking in the wrong parking Lot;Low;100;0.10;15;no;
+PRS;Parking in reserved space;Low;100;0.10;20;no;
+PIE;Parking in entrances;Medium;500;0.35;30;yes;
+UMP;Using a mobile phone while driving;Medium;500;0.35;30;no;
+BMR;Blocking main roads and intersections;Medium;500;0.35;30;yes;
+DWD;Driving in the wrong direction;High;1000;0.5;50;yes;
+SPD;Speeding;High;1000;0.5;50;yes;
+NSP;Not stopping for pedestrians;High;1000;0.5;50;yes;
